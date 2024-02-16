@@ -23,8 +23,10 @@ Welcome to **Edge-Vault**, an innovative IoT solution designed to bring cutting-
 
 To get started with Edge-Vault, clone this repository and navigate to each component's directory for detailed setup instructions:
 
-- For the mobile application, see the `master` branch. https://github.com/Tan-Jing-Kai/IoTs-Edge-Vault/tree/master
+- For the mobile application, see the `master` branch.
+- https://github.com/Tan-Jing-Kai/IoTs-Edge-Vault/tree/master
 - For the Arduino code, see the `main` branch.
+- https://github.com/Tan-Jing-Kai/IoTs-Edge-Vault/tree/main
 
 ## Acknowledgments
 
