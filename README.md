@@ -19,6 +19,13 @@ Welcome to **Edge-Vault**, an innovative IoT solution designed to bring cutting-
 - **Cloud Services**: Scripts and configurations for data handling with ThingSpeak and AWS IoT.
 - **User Interface**: A clean and intuitive design that ensures a pleasant user experience while maintaining the sophistication of the technologies involved.
 
+## Getting Started
+
+To get started with Edge-Vault, clone this repository and navigate to each component's directory for detailed setup instructions:
+
+- For the mobile application, see the `master` branch.
+- For the Arduino code, see the 'main' branch.
+
 ## Acknowledgments
 
 - Project done by Jing Kai, Xan, Felix, Tushar and Tushar.
