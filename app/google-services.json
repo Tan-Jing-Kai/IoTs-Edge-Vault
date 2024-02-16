@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289002632239",
+    "project_id": "edge-vault-55565",
+    "storage_bucket": "edge-vault-55565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289002632239:android:ac48238d9a8c8f155982da",
+        "android_client_info": {
+          "package_name": "com.example.iotsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOlpxtQMQV-hy84hMVfiBymU9Uu2oGvhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
