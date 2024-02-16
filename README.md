@@ -21,6 +21,7 @@ Welcome to **Edge-Vault**, an innovative IoT solution designed to bring cutting-
 
 ## Acknowledgments
 
+- Project done by Jing Kai, Xan, Felix, Tushar and Tushar.
 - Thanks to the Firebase team for providing a robust authentication platform.
 - Kudos to ThingSpeak and AWS for simplifying IoT data management and analytics.
 - A big shoutout to all our contributors and testers who have helped make this project a reality.
