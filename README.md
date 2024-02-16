@@ -25,6 +25,9 @@
 
 To get started with Edge-Vault, follow the instructions in each component's directory:
 
+- **Arduino Code**: `Main` Branch.
+- https://github.com/Tan-Jing-Kai/IoTs-Edge-Vault/tree/main
+
 - `LoginActivity`: Review the authentication flow and Firebase setup.
 - `RegistrationActivity`: Set up user registration with strong password enforcement.
 - `MainActivity`: Configure the main user interface and device management capabilities.
@@ -32,6 +35,8 @@ To get started with Edge-Vault, follow the instructions in each component's dire
 - `SplashActivity` and `WelcomeActivity`: Customize the initial user experience as per your branding needs.
 
 - **Navigate to `IoTsApp\app\src\main\java\com\example\iotsapp`**
+- `Activity Files`: https://github.com/Tan-Jing-Kai/IoTs-Edge-Vault/tree/master/app/src/main/java/com/example/iotsapp
+- `Layout Files`: https://github.com/Tan-Jing-Kai/IoTs-Edge-Vault/tree/master/app/src/main/res/layout
 
 ## Acknowledgments
 
