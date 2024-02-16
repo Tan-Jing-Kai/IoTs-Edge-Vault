@@ -24,7 +24,7 @@ Welcome to **Edge-Vault**, an innovative IoT solution designed to bring cutting-
 To get started with Edge-Vault, clone this repository and navigate to each component's directory for detailed setup instructions:
 
 - For the mobile application, see the `master` branch.
-- For the Arduino code, see the 'main' branch.
+- For the Arduino code, see the `main` branch.
 
 ## Acknowledgments
 
