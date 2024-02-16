@@ -31,6 +31,8 @@ To get started with Edge-Vault, follow the instructions in each component's dire
 - `SSIDActivity`: Implement WiFi management logic.
 - `SplashActivity` and `WelcomeActivity`: Customize the initial user experience as per your branding needs.
 
+- **Navigate to `IoTsApp\app\src\main\java\com\example\iotsapp`**
+
 ## Acknowledgments
 
 - Contributed by Jing Kai.
