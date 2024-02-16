@@ -33,6 +33,6 @@ To get started with Edge-Vault, follow the instructions in each component's dire
 
 ## Acknowledgments
 
-- Contributed by Jing Kai
+- Contributed by Jing Kai.
 - Our gratitude to the Firebase team for their robust authentication system.
 
